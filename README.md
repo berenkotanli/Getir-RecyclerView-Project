@@ -9,4 +9,4 @@ Creating some pages of  "Getir" application (UpSchool Recycler View Project - As
 ![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/43938354/118697261-c8598280-b817-11eb-999f-2e46f3710956.png)
 
 
-## Will continue to be developed
+### Will continue to be developed
