@@ -3,7 +3,10 @@ Creating some pages of  "Getir" application (UpSchool Recycler View Project - As
 
 ## Screenshots
 
-![image (12)](https://user-images.githubusercontent.com/43938354/118689391-9cd29a00-b80f-11eb-9654-0ad3de736e30.png)
-![image (13)](https://user-images.githubusercontent.com/43938354/118689394-9e03c700-b80f-11eb-8c27-3c3251842305.png)
+
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/43938354/118697254-c5f72880-b817-11eb-85d1-72c8842ddc2e.png)
+![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/43938354/118697257-c7285580-b817-11eb-9dde-309927d64d3e.png)
+![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/43938354/118697261-c8598280-b817-11eb-999f-2e46f3710956.png)
+
 
 ## Will continue to be developed
