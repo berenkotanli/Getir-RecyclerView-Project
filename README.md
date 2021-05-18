@@ -1,7 +1,7 @@
 # Getir-RecyclerView-Project
 Creating some pages of  "Getir" application (UpSchool Recycler View Project - Assignment 6)
 
-#Screenshots
+# Screenshots
 
-![image (11)](https://user-images.githubusercontent.com/43938354/118681920-a7d5fc00-b808-11eb-981a-2db13d364c2d.png)
-![image (10)](https://user-images.githubusercontent.com/43938354/118681940-adcbdd00-b808-11eb-9739-1070b1015406.png)
+![image (12)](https://user-images.githubusercontent.com/43938354/118689391-9cd29a00-b80f-11eb-9654-0ad3de736e30.png)
+![image (13)](https://user-images.githubusercontent.com/43938354/118689394-9e03c700-b80f-11eb-8c27-3c3251842305.png)
