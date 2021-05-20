@@ -1,5 +1,5 @@
 # Getir-RecyclerView-Project
-Creating some pages of  "Getir" application (UpSchool Recycler View Project - Assignment 6)
+Creating some pages of  "Getir" application (UpSchool Recycler View Project 1)
 
 ## Screenshots
 
